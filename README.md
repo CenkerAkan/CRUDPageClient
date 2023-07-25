@@ -1,4 +1,4 @@
-# vuetut
+# CRUD Page Client
 
 ## Project setup
 ```
